@@ -15,4 +15,8 @@ python calculator.py
 
 **# Output :-**
 
-![Uploading {EF35ECDC-1A2D-46B9-BB11-1AF53425FE92}.png…]()
+Simple Calculator
+Enter first number: 10
+Enter operator (+, -, *, /): +
+Enter second number: 10
+Result: 20.0
