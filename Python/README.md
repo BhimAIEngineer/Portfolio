@@ -13,7 +13,7 @@ A simple calculator application built using Python.
 ```bash
 python calculator.py
 
-** Output :-**
+Output:-
 
 Simple Calculator
 Enter first number: 10
